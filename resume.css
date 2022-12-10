@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+#mainbox {
+    width: 1000px;
+    height: auto;
+    border: solid;
+    padding-top: 15px;
+    /* background-image: linear-gradient(rgb(225, 188, 188),rgb(0, 11, 134)); */
+    background-color: white;
+}
+#reshead {
+    /* text-align: ; */
+    /* border: solid; */
+    /* color: rgba(0, 0, 243, 0.852); */
+    color: rgba(18, 18, 101, 0.85);
+    justify-content: center;
+   /* // font-style:; */
+}
+#logoprop
+{
+    /* border: solid; */
+    width: 110px;
+    height: 125px;
+    /* height: 50px; */
+    /* text-align: right; */
+
+}
+.maindiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+.leftdiv {
+    width: 58%;
+    height: 20%;
+    text-align: right;
+    /* border: 2px solid black;  */
+}
+.rightdiv {
+    width: 30%;
+    padding-top: 1%;
+    text-align: right;
+     /* border: 2px solid black;  */
+}
